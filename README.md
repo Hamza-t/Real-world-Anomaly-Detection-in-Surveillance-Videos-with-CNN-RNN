@@ -1,5 +1,7 @@
-# Real world Anomaly Detection in Surveillance Videos : Pytorch 
-#PFA_INSAT
+# Real world Anomaly Detection in Surveillance Videos with CNN+LSTM : Pytorch 
+# This is the End of 4th year project at INSAT
+## Goal  : Design and development of a crime forecasting system based on
+the videos of the surveillance cameras.
 
 
 
