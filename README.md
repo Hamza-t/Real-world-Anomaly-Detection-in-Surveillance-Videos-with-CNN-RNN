@@ -40,5 +40,7 @@ Download following data [link](https://drive.google.com/file/d/18nlV4YjPM93o-Sdn
 ```
 python main.py
 ```
-
+```
+python mainlstm.py
+```
 
